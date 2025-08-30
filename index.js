@@ -5,7 +5,6 @@ const cricketPlayer = {
   batsmen: "Right handed",
   bowling: "spin off break",
 };
-// console.log(cricketPlayer.bowling);
 
 const keys = Object.keys(cricketPlayer);
 // console.log(keys);
